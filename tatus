@@ -1,0 +1,41 @@
+[33mcommit 96c25919267f0b39df4c2aa0ae21678d7862d51b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Mon Jun 28 12:01:44 2021 +0530
+
+    Add stock model and iex api key
+
+[33mcommit 42f488b60a2eed75b0056c211f6d4a22dfd92aba[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Mon Jun 28 10:10:00 2021 +0530
+
+    Add navigation partial and style flash messages
+
+[33mcommit 42efe4486a0959d764974085c57f939019e5ec70[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Mon Jun 28 09:49:34 2021 +0530
+
+    Add bootstrap and styling to forms
+
+[33mcommit b3ec241ae0071fad4fa1fb733cbdae4e598cc732[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Fri Jun 25 16:37:49 2021 +0530
+
+    Add bootstrap for styling
+
+[33mcommit 736c6011faf2b3808bec068ce62ac382ab9c66ea[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Fri Jun 25 16:18:45 2021 +0530
+
+    Add devise and create users
+
+[33mcommit 975de3c4208b702159035aacadb4b9c6c645c6f0[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Fri Jun 25 13:53:28 2021 +0530
+
+    Add welcome page as root
+
+[33mcommit 70f7569155002a7506197ef3fa90afafc80ed544[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Jayanth <jayanth.koralla@gmail.com>
+Date:   Fri Jun 25 13:42:58 2021 +0530
+
+    Initial Commit
